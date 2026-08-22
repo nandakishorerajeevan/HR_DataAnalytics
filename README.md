@@ -139,15 +139,19 @@ HR Data Analytics Dashboard
 <h2>🖼️ Dashboard Preview</h2>
 
 <p align="center">
-  <img src="images/dashboard-april.png" width="900">
+  <img src="Screenshot 2026-08-22 123955.png" width="900">
 </p>
 
 <p align="center">
-  <img src="images/dashboard-may.png" width="900">
+  <img src="Screenshot 2026-08-22 124011.png" width="900">
 </p>
 
 <p align="center">
-  <img src="images/dashboard-june.png" width="900">
+  <img src="Screenshot 2026-08-22 124024.png" width="900">
+</p>
+
+<p align="center">
+  <img src="Screenshot 2026-08-22 124103.png" width="900">
 </p>
 
 <h2>💡 Key Insights</h2>
